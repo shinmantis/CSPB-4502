@@ -3,7 +3,9 @@
 
 **Description:** We will be looking at a dataset of Kickstarter campaigns through 2019. We will be answering the question of which factors increase the likelihood of success of a Kickstarter campaign.   
 
-**Prior Work:** There are Kaggle notebooks related to this dataset where people have   
+**Prior Work:** There are Kaggle notebooks related to this dataset where people have
+
+https://medium.com/@daniel.kupka/we-analyzed-331-000-kickstarter-projects-here-s-what-we-learned-about-crowdfunding-success-63b341b025ac
 
 **Datasets:**  
 
