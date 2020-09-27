@@ -5,7 +5,11 @@
 
 **Prior Work:** There are Kaggle notebooks related to this dataset where people have
 
+Daniel Kupka
 https://medium.com/@daniel.kupka/we-analyzed-331-000-kickstarter-projects-here-s-what-we-learned-about-crowdfunding-success-63b341b025ac
+
+Justin S Gage
+https://www.kaggle.com/gagejustins/kickstarter-analysis-and-prediction
 
 **Datasets:**  
 
