@@ -1,5 +1,5 @@
 ## Kickstarter Campaigns: Success Factors and Analysis  
-by Monica Boomgaarden,Rodrigo Garcia, and Nicole Lincoln
+by Monica Boomgaarden, Rodrigo Garcia, and Nicole Lincoln
 
 #### Project Description
 For this project, we looked at a dataset of Kickstarter campaigns through 2019.
