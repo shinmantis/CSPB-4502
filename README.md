@@ -16,6 +16,6 @@ Based on our model and EDA the two things that have the biggest impact on succes
 
 Lastly, category, months, and duration did not seem to significantly impact the outcome of a Kickstarter. Thus, when creating a Kickstarter campaign users should feel relatively confident picking any category, launch month, or duration.
 
-Video Demonstration: <https://www.youtube.com/>
+Video Demonstration: <https://www.youtube.com/watch?v=4Fl213xI1hk&feature=youtu.be&ab_channel=shinmantis>
 
 Final Project Paper: <https://github.com/>
